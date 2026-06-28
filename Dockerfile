@@ -1,4 +1,4 @@
-ARG NODE_VERSION=lts
+ARG NODE_VERSION=24
 
 FROM docker.io/node:${NODE_VERSION}-alpine
 
